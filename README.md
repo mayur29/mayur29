@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ...
+
+I am working as Engineering Manager in Advanced Analystics & AI Team in E.ON . I have 14+ experince building products across domains . For past 2 years , I have been focussing on Data Driven projects in Energy sector . In my private time , I love coding in Python . Now days learning Pytorch and Graph Neural Network
+
+ ⚡ Fun fact: ...
+I love Football and Manchester United is my Fav Team . I have never missed a single match they have played since 2000 . Always ensured followed them via social media , Radio or TV
+
 <!--
 **mayur29/mayur29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+I love Football and Manchester United is my Fav Team . I have never missed a single match they have played since 2000 . Always ensu
 -->
