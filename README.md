@@ -2,11 +2,14 @@
 
 🔭 I’m currently working on ...
 
-I am working as Engineering Manager in Advanced Analystics & AI Team in E.ON . I have 14+ experince building products across domains . For past 2 years , I have been focussing on Data Driven projects in Energy sector . In my private time , I love coding in Python . Now days learning Pytorch and Graph Neural Network
+I am working as Engineering Manager in Advanced Analystics & AI Team in E.ON . I have 14+ experince building products across domains . For past 2 years , I have been focussing on Data Driven projects in Energy sector . In my private time , I love coding in Python . Now days learning Pytorch and Graph Neural Network.
+I was invited to speak at Big Data & AI World Conference in Nov 2020 . You can find video at https://vimeo.com/472984729/c6c84914ec
+
 
 🌱 My Medium Blog ...
 
 You can checkout my medium blog at https://medium.com/@sand.mayur
+
 
 👯 I’m looking to collaborate on ...
 
