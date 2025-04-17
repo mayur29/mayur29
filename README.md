@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on ...
 
-I am working as Engineering Manager in Advanced Analystics & AI Team in E.ON . I have 14+ experince building products across domains . For past 2 years , I have been focussing on Data Driven projects in Energy sector . In my private time , I love coding in Python . Now days learning Pytorch and Graph Neural Network.
+I am working as Head of Digital & Data Products in E.ON . I have 14+ experince building products across domains . For past 7 years , I have been focussing on Data Driven projects in Energy sector . In my private time , I love coding in Python . Now days learning Pytorch and Graph Neural Network.
 I was invited to speak at Big Data & AI World Conference in Nov 2020 . You can find video at https://vimeo.com/472984729/c6c84914ec
 
 
@@ -16,7 +16,7 @@ You can checkout my medium blog at https://medium.com/@sand.mayur
 I am looking to collaborate on Energy domain Data driven usecases which anyone is pursuing .  Graph Neural Network (GNN) is another topic where I would love to collaborate with others
 
  ⚡ Fun fact: ...
-I love Football and Manchester United is my Fav Team . I have never missed a single match they have played since 2000 . Always ensured followed them via social media , Radio or TV
+I love Football and Manchester United is my Fav Team .
 
 <!--
 **mayur29/mayur29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
